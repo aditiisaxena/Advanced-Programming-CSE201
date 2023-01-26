@@ -14,5 +14,5 @@ Finding the height of the tree using a multi-threaded implementation by finding 
 Comparing the time taken to perform each task using the single-threaded and multi-threaded implementations
 ## Classes
 Tree: This class contains methods that build a tree, search for an element in the tree and find the height of the tree using a single-threaded implementation.<br>
-thread1: This is the thread class that builds sub trees
-thread2: This is the thread class that searches for an element in the sub trees<br>
+thread1: This is the thread class that builds sub trees<br>
+thread2: This is the thread class that searches for an element in the sub trees
